@@ -50,10 +50,10 @@ form button:hover {
 
 .messages li:nth-child(odd) {
     background: #eee;
-    color: aqua;
+    color: blue
 }
 
 .username{
-    color:green;
+    color:rgb(34, 0, 128);
     text-anchor: middle;
 }
